@@ -3,6 +3,8 @@ Now I am studying in the specialization of Mechanical Engineering Mechatronics �
 
 🌱 I’m currently learning programming languages: Python, C;
 
+🌱 I'm studying softwares for Aerodynamics: XFOIL, xflr5.
+
 🔧 I've used CAD softwares: Rhino3D, SIEMENS Solid_Edge, SIEMENS NX. I've used MSC_Adams (multibody software).
 
 🏎️ I’m interested in Formula 1 Racing 
